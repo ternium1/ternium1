@@ -1,5 +1,9 @@
 ### Hi there 👋
+wassup?
 
+I'm 16
+Currently learning React & FastAPI to make a fullstack app
+Docker is amazing
 <!--
 **ternium1/ternium1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
